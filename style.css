@@ -300,13 +300,12 @@ footer div:last-child {
   .product-info h3 {
     font-size: 15px;
   }
-}
-
-footer{
-  height: 15vh;
-}
-
-.footer-icons a{
-  font-size:15px;
-  width: 9%;
+  footer{
+    height: 15vh;
+  }
+  
+  .footer-icons a{
+    font-size:15px;
+    width: 9%;
+  }
 }
