@@ -56,7 +56,7 @@ body {
   cursor: pointer;
   margin: 0 10px 0px 0;
   object-fit:cover;
-  border: 2px solid chocolate; /* Set the border width and make it transparent */
+  border: 2px solid chocolate;
   animation: borderAnimation 4s  infinite;
 }
 @keyframes borderAnimation {

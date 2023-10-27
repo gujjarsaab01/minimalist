@@ -18,7 +18,7 @@
 .image {
   width: 100%;
   height: 79vh;
-  object-fit: fill; /* Use object-fit to cover the container */
+  object-fit: fill; 
 }
 .image-text-top {
   background-color: rgba(62, 62, 59, 0.449);
@@ -27,11 +27,13 @@
   text-align: start;
 }
 .image-text-top p {
-  font-size: 2.3rem;
+  font-size: 3rem;
   font-family: "Sedgwick Ave Display", cursive;
   letter-spacing: 1px;
   text-indent: 5rem;
   color: white;
+  -webkit-text-stroke: 2.6px #fb0505; 
+  text-stroke: 2.6px #ec1414;
 
   padding: 10px;
 }
